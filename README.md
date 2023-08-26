@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Better Beacons
 
 Have you ever asked yourself what the point of using better materials than iron or gold in a beacon is? Sure, you may say simply for style points, but what if you could get more? Meet Better Beacons, a mod which aims to improve the way beacons work.
 
