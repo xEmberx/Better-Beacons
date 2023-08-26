@@ -4,7 +4,7 @@ Have you ever asked yourself what the point of using better materials than iron 
 
 Hypothetically, lets say you have a Beacon and a mixture of material blocks. This mixture consists of 64 Iron Blocks, 35 Gold Blocks, 45 Emerald Blocks, 15 Diamond Blocks, and 5 Netherite Blocks. You begin building your beacon base with these materials, in no particular order, and finally place your Beacon atop it. You select your effect from the UI and find out you have a range of 95 blocks, almost double the standard!
 
-This pack changes Beacons to use a "point system" approach to it's radius depending on the Beacon's pyramid\
+This mod changes Beacons to use a "point system" approach to it's radius depending on the Beacon's pyramid\
 From worst to best material: Iron -> Gold -> Emerald -> Diamond -> Netherite
 
 A level 4 Beacon with a pyramid consisting entirely of:\
